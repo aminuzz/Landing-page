@@ -703,6 +703,21 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+			.nyit{
+				width: auto;
+				height: auto;
+				margin-right: 10px;
+			}
+			.Codepath{
+				width: auto;
+				height: auto;
+				margin-right: 10px;
+			}
+			.TryHackMe{
+				width: auto;
+				height: auto;
+				margin-right: 10px;
+			}
 
 		@media screen and (max-width: 736px) {
 
