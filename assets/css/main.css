@@ -1298,6 +1298,13 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
+		.logo img {
+			width: 116px;  /* Adjust size as needed */
+			height: 115px; /* Ensure the image is square for the border-radius to work */
+			border-radius: 50%;  /* Makes the image circular */
+			object-fit: cover;  /* Ensures the image covers the whole area */
+		}
+		
 
 			#header .logo .icon:before {
 				font-size: 2rem;
