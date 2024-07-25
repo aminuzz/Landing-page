@@ -1299,8 +1299,8 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 		.logo img {
-			width: 116px;  /* Adjust size as needed */
-			height: 115px; /* Ensure the image is square for the border-radius to work */
+			width: 113px;  /* Adjust size as needed */
+			height: 113px; /* Ensure the image is square for the border-radius to work */
 			border-radius: 50%;  /* Makes the image circular */
 			object-fit: cover;  /* Ensures the image covers the whole area */
 		}
